@@ -1,0 +1,11 @@
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\bin\Debug\netcoreapp3.0\Genius.exe
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\bin\Debug\netcoreapp3.0\Genius.deps.json
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\bin\Debug\netcoreapp3.0\Genius.runtimeconfig.json
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\bin\Debug\netcoreapp3.0\Genius.runtimeconfig.dev.json
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\bin\Debug\netcoreapp3.0\Genius.dll
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\bin\Debug\netcoreapp3.0\Genius.pdb
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\obj\Debug\netcoreapp3.0\Genius.csprojAssemblyReference.cache
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\obj\Debug\netcoreapp3.0\Genius.AssemblyInfoInputs.cache
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\obj\Debug\netcoreapp3.0\Genius.AssemblyInfo.cs
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\obj\Debug\netcoreapp3.0\Genius.dll
+C:\Users\VINICIUSROCHADASILVA\source\repos\Genius\Genius\obj\Debug\netcoreapp3.0\Genius.pdb
